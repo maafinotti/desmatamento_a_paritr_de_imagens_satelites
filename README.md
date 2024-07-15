@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/6322/logos/header.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1721164741&Signature=dVVxDn2u6L0sSmVi3yqvHLpbi1gdk%2BqJKPmbs9RXBuhyFPFjUCfL12e9Ky4q%2BniQ4SoP4wU5g9IZZigpKH9%2FabFtWQSaasRhDyGa%2B9MC9Vf6oC4rKjpImJodHmGwT9Sn5Dsgb9FLbl47Uzf1oqK1RST5CvLodTzuOfYvBVS6bVVRvc3cmj6AQO%2BmWGigDhCN6VfQZHM%2Fpt0C1xl2X2AmEGoRuYddahHN1RiChdFZ%2F6y7TkM%2B0J2yN8pm1Jb5A28Of9oqNSbTqh6BF6nNG2kWEPrMpjLY48owwp2nhAXc86w6UIPN5vQ2AIlKAOw3qUVqx4gxV1Rikqww2G6N7vOv9w%3D%3D" width="300">
+  <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/6322/logos/header.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1721164741&Signature=dVVxDn2u6L0sSmVi3yqvHLpbi1gdk%2BqJKPmbs9RXBuhyFPFjUCfL12e9Ky4q%2BniQ4SoP4wU5g9IZZigpKH9%2FabFtWQSaasRhDyGa%2B9MC9Vf6oC4rKjpImJodHmGwT9Sn5Dsgb9FLbl47Uzf1oqK1RST5CvLodTzuOfYvBVS6bVVRvc3cmj6AQO%2BmWGigDhCN6VfQZHM%2Fpt0C1xl2X2AmEGoRuYddahHN1RiChdFZ%2F6y7TkM%2B0J2yN8pm1Jb5A28Of9oqNSbTqh6BF6nNG2kWEPrMpjLY48owwp2nhAXc86w6UIPN5vQ2AIlKAOw3qUVqx4gxV1Rikqww2G6N7vOv9w%3D%3D" width="400">
 </p> 
 
 <h1 align="center">Rastreamento do Desmatamento a Partir de Imagens Satélites</h1>
